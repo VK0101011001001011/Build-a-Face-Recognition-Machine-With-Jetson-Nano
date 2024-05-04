@@ -38,8 +38,8 @@ You can install these dependencies via pip:
 4. **Configure Your Environment:**
    Set the environment variables to point to your dataset and model directories.
    
-    export DATASET_PATH=/path/to/your/dataset
-    export MODEL_PATH=/path/to/your/model
+   ```export DATASET_PATH=/path/to/your/dataset```
+   ```export MODEL_PATH=/path/to/your/model```
 
 ## 🚀 Usage
 
