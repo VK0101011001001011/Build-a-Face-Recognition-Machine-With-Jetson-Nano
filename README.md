@@ -35,7 +35,28 @@ You can install these dependencies via pip:
 3. **Prepare the Dataset:**
    Organize your dataset with folders labeled numerically for each individual.
 
-4. **Configure Your Environment:**
+   Dataset Structure
+    Create a root folder named dataset.
+    Inside dataset, create subfolders for each person (e.g., "Alice", "Bob", "Cara").
+
+   Place multiple images of each person within their respective subfolders.
+## Example
+
+```
+dataset/
+    Alice/
+        alice_image1.jpg
+        alice_image2.jpg
+        ...
+    Bob/
+        bob_image1.jpg
+        bob_image2.jpg
+        ...
+    ...
+```
+
+
+5. **Configure Your Environment:**
    Set the environment variables to point to your dataset and model directories.
    
    ```export DATASET_PATH=/path/to/your/dataset```
@@ -69,6 +90,5 @@ This project is open-sourced under the MIT License. See the [LICENSE](LICENSE) f
 Special thanks to:
 - The OpenCV and TensorFlow teams for their exceptional support and resources.
 - NVIDIA for making high-performance computing accessible for developers and researchers.
-- The creator of the Instructables DIY project for providing a practical and informative guide.
 
 **Explore the possibilities of enhancing your projects with state-of-the-art face recognition technology using the Jetson Nano!**
