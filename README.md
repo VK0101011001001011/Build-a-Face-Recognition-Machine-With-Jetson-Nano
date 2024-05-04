@@ -27,6 +27,35 @@ You can install these dependencies via pip:
 
 Install git: [How to install Git on any OS](https://github.com/git-guides/install-git)
 
+Quick-Guide for git installation:
+
+Installing Git
+Before running this project, you'll need Git installed on your system to manage version control. Here's how to install it for your operating system:
+
+## macOS
+
+
+Download Link: https://git-scm.com/download/mac
+Installation:
+Download the installer and follow the on-screen prompts.
+Alternatively, you can use package managers like Homebrew (brew install git).
+## Linux
+
+Use your system's package manager. Here are examples for common distributions:
+
+
+Debian/Ubuntu: sudo apt install git
+Fedora/CentOS/RHEL: sudo yum install git
+Arch Linux: sudo pacman -S git
+
+## Windows 11
+Download Link: https://git-scm.com/download/win
+Installation:
+Download the installer and follow the on-screen prompts.
+
+Installing Other Dependencies
+
+
 1. **Clone the Repository:**
    Clone this repository to your local machine to get started.
    
