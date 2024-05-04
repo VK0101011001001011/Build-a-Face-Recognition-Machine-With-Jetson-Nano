@@ -28,13 +28,14 @@ You can install these dependencies via pip:
 1. **Clone the Repository:**
    Clone this repository to your local machine to get started.
    
-    git clone https://github.com/VellVoid/Build-a-Face-Recognition-Machine-With-Jetson-Nano.git
-    cd VellVoid/Build-a-Face-Recognition-Machine-With-Jetson-Nano
+   ```git clone https://github.com/VellVoid/Build-a-Face-Recognition-Machine-With-Jetson-Nano.git```
+   
+   ```cd VellVoid/Build-a-Face-Recognition-Machine-With-Jetson-Nano```
 
-2. **Prepare the Dataset:**
+3. **Prepare the Dataset:**
    Organize your dataset with folders labeled numerically for each individual.
 
-3. **Configure Your Environment:**
+4. **Configure Your Environment:**
    Set the environment variables to point to your dataset and model directories.
    
     export DATASET_PATH=/path/to/your/dataset
