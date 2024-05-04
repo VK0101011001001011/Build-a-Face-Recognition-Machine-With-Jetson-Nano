@@ -25,6 +25,8 @@ You can install these dependencies via pip:
 
 ## 🛠 Installation
 
+Install git: [link](https://github.com/git-guides/install-git)
+
 1. **Clone the Repository:**
    Clone this repository to your local machine to get started.
    
