@@ -44,9 +44,11 @@ Alternatively, you can use package managers like Homebrew (brew install git).
 Use your system's package manager. Here are examples for common distributions:
 
 
-Debian/Ubuntu: sudo apt install git
-Fedora/CentOS/RHEL: sudo yum install git
-Arch Linux: sudo pacman -S git
+Debian/Ubuntu: ```sudo apt install git```
+
+Fedora/CentOS/RHEL: ```sudo yum install git```
+
+Arch Linux: ```sudo pacman -S git```
 
 ## Windows 11
 Download Link: https://git-scm.com/download/win
