@@ -105,9 +105,7 @@ To run the face recognition script, navigate to the repository folder and execut
 - **Recognition Process:** Faces are analyzed using both LBPH and TensorFlow models to match against known identities.
 - **Result Display:** Outputs the video with bounding boxes and labels indicating identified persons and their confidence levels.
 
-## 📜 License
 
-This project is open-sourced under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## 📚 Additional Resources
 
@@ -123,3 +121,7 @@ Special thanks to:
 - NVIDIA for making high-performance computing accessible for developers and researchers.
 
 **Explore the possibilities of enhancing your projects with state-of-the-art face recognition technology using the Jetson Nano!**
+
+## 📜 License
+
+This project is open-sourced under the MIT License. See the [LICENSE](LICENSE) file for more details.
